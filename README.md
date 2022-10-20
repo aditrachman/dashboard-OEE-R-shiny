@@ -27,7 +27,7 @@ library(smooth)
 
 You must need google sheet with data, and mysql data
 
-
+    
 ## Run Locally
 
 Clone the project
@@ -38,7 +38,10 @@ Clone the project
 
 Go to the project directory
 
-open project with RStudio
+- open project with RStudio
+
+
+
 
 
 
@@ -47,7 +50,12 @@ open project with RStudio
 - [@aditrachman](https://www.github.com/aditrachman)
 
 
+## Features
 
-
+- Shiny dashboard custom
+- Mysql connection
+- Spreadsheet connection
+- Forecasting Features
+- Plot 
 
 
