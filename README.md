@@ -59,3 +59,10 @@ Go to the project directory
 - Plot 
 
 
+
+## Tech Stack
+
+**Web:** Shiny, Bootstrap 3,Font Awesome, Comfortaa
+
+**Database:** Mysql, Google SpreadSheet
+
