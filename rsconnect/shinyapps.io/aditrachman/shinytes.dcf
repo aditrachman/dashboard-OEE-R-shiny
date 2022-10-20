@@ -1,0 +1,13 @@
+name: shinytes
+title: shinytes
+username:
+account: aditrachman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6437694
+bundleId: 5981270
+url: https://aditrachman.shinyapps.io/shinytes/
+when: 1654505291.72681
+lastSyncTime: 1654505291.72681
+asMultiple: FALSE
+asStatic: FALSE
